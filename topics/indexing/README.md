@@ -2,7 +2,7 @@
 
 **Roadmap coverage:** B-Tree; Hash; Composite
 
-Indexes map search keys to rows. B-tree-like ordered indexes support ranges and ordering; hash indexes suit equality; composite key order determines usable prefixes. This example uses Java maps as an executable analogy, not a database index implementation.
+Indexes map search keys to matching rows. B-tree-like ordered indexes support ranges and ordering; hash indexes suit equality; composite key order determines usable prefixes. This example uses Java maps as an executable analogy, not a database index implementation; its hash index retains multiple rows for non-unique keys.
 
 ## Runnable example
 

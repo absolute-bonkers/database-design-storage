@@ -38,4 +38,5 @@ Destructive schema changes before every application instance has stopped using t
 
 ## Sources
 
-[AWS database migration guidance](https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html)
+[AWS Database Migration Service documentation](https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html),
+[Martin Fowler's Parallel Change (expand-and-contract) pattern](https://martinfowler.com/bliki/ParallelChange.html)
